@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EVERX Exchange Privacy Policy</title>
+<style>
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    max-width:900px;
+    margin:40px auto;
+    padding:20px;
+    line-height:1.7;
+    color:#333;
+}
+h1,h2{
+    color:#0066cc;
+}
+.container{
+    background:#fff;
+}
+footer{
+    margin-top:40px;
+    border-top:1px solid #ddd;
+    padding-top:20px;
+    color:#777;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>EVERX Exchange Privacy Policy</h1>
+
+<p><strong>Last Updated:</strong> July 5, 2026</p>
+
+<p>Welcome to EVERX Exchange. Your privacy is important to us.</p>
+
+<h2>Information We Collect</h2>
+
+<ul>
+<li>Telegram User ID</li>
+<li>Telegram username</li>
+<li>Name</li>
+<li>Messages and commands</li>
+<li>Transaction information</li>
+<li>Technical device information</li>
+</ul>
+
+<h2>How We Use Your Information</h2>
+
+<ul>
+<li>Provide our services</li>
+<li>Process transactions</li>
+<li>Prevent fraud</li>
+<li>Improve user experience</li>
+<li>Provide customer support</li>
+</ul>
+
+<h2>Information Sharing</h2>
+
+<p>We never sell your personal information. Information is shared only when legally required or necessary to provide our services.</p>
+
+<h2>Security</h2>
+
+<p>We use reasonable technical and organizational measures to safeguard your information.</p>
+
+<h2>Data Retention</h2>
+
+<p>Information is retained only as long as necessary.</p>
+
+<h2>Your Rights</h2>
+
+<p>You may request access, correction, or deletion of your personal information where applicable.</p>
+
+<h2>Third-Party Services</h2>
+
+<p>EVERX uses Telegram services. Telegram's own policies also apply.</p>
+
+<h2>Changes</h2>
+
+<p>This Privacy Policy may be updated from time to time.</p>
+
+<h2>Contact Us</h2>
+
+<p>
+<strong>EVERX Exchange</strong><br>
+Email: support@everxexchange.trade<br>
+Website: https://everxexchange.trade<br>
+Telegram: @EverXOfficialBot
+</p>
+
+<footer>
+
+© 2026 EVERX Exchange. All Rights Reserved.
+
+</footer>
+
+</div>
+
+</body>
+</html>
